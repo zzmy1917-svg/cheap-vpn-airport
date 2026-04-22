@@ -1,3 +1,6 @@
+> forked from [tprc1949/cheap-vpn-airport](https://github.com/tprc1949/cheap-vpn-airport)
+
+
 # 便宜机场推荐 - 免费·低价·优质·稳定·超高性价比
 
 如若你不希望与本仓库失联，请点一下右上角  **star**⭐  并  **fork**🔱  本仓库。  
