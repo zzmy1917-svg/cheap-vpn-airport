@@ -139,4 +139,4 @@
 
 😊 最后，如果觉得这篇推荐对你有所帮助，那么不妨点一下右上角的 `star` ⭐，这将让我更有动力保持更新。💚 **感谢你能看到此处** 💚。
 
-> forked from [DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)
+> forked from [tprc1949/cheap-vpn-airport](https://github.com/tprc1949/cheap-vpn-airport)
