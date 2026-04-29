@@ -1,4 +1,4 @@
-> forked from [tprc1949/cheap-vpn-airport](https://github.com/tprc1949/cheap-vpn-airport)
+> 旧仓库已被封  [tprc1949/cheap-vpn-airport](https://github.com/tprc1949/cheap-vpn-airport)
 
 
 # 便宜机场推荐 - 免费·低价·优质·稳定·超高性价比
