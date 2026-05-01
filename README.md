@@ -34,7 +34,7 @@
 |创建|官网<br>(🪜：被墙)|协议|节点数|限时|不限时|其他|
 |:-:|:-:|:-:|:-:|-|-|-|
 |2023.07.01|蜂窝云🔥<br>[**官网**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |60|**20 ￥ / 月 / 200 GB**|**22 ￥ / 永久 / 100 GB**|**专线**仅专用客户端可用，通用连接只能使用普通节点。<br>**MITM节点免登录看奈飞VIP,仅浏览器中**|
-|2023.05.01|农夫山泉🔥<br>[**官网**](https://qqq.nfsqttt.com/#/register?code=JjW59PTY)| vless、ss |24|**15 ￥ / 月 / 200 GB**|**45 ￥ / 永久 / 200 GB<br>210 ￥ / 永久 / 1000 GB**|专有客户端。线路全部优化，5.1已涨价。|
+|2023.05.01|农夫山泉🔥<br>[**官网**](https://qqq.nfsqttt.com/#/register?code=JjW59PTY)| vless、ss |48|**15 ￥ / 月 / 200 GB**|**45 ￥ / 永久 / 200 GB<br>210 ￥ / 永久 / 1000 GB**|专有客户端。线路全部优化，5.1已涨价。|
 |2023.03.09|亏本机场<br>[**官网1**](https://dash.knjc.cfd/#/register?code=Lhpm2QMs)<br>[**官网2🪜**](https://亏本机场.site/#/register?code=Lhpm2QMs)| hy2、vless |21|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 永久 / 1234 GB**|极致性价比|
 |2025.03.18|良心云<br>[**官网1🪜**](https://xn--9kqz23b19z.com/#/register?code=MMIZIeGe)| vless、hy2 |34|**6 ￥ / 月 / 1000 GB**|**21 ￥ / 永久 / 1000 GB<br>149 ￥ / 永久 / 10000 GB**|月付便宜|
 |2022.11.06|赔钱机场<br>[**官网1**](https://xn--cp3a08l.com/#/register?code=yayApaSY)<br>[**官网2**](https://www.赔钱机场.site/#/register?code=yayApaSY)| vless、hy2 |92|**5.99 ￥ / 月 / 1000 GB**|**18.9 ￥ / 永久 / 1000 GB；<br>688 ￥ / 永久可滥用 / 99999 GB**|节点多|
