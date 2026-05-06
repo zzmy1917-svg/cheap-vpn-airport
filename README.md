@@ -42,7 +42,7 @@
 |2022.04.26|魔戒<br>[**官网1**](https://dwz.zzmy.dpdns.org/0zyhIm)| vmess、hy2、anytls |43|无|**14.9 ￥ / 永久 / 130 GB<br>688 ￥ / 永久 / 10000 GB**||
 |2023.05.04|自由猫<br>[**官网1**](https://dwz.zzmy.dpdns.org/cEz7XA)| vmess、hy2、anytls |未统计|**6 ￥ / 月 / 30 GB**|**50 ￥ / 永久 / 500 GB||
 |2024.11.05|牛逼机场<br>[**官网1**](https://dwz.zzmy.dpdns.org/AFz8Na)| vmess、hy2、ss | 44 |**6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB**|**12.90 ￥ / 永久 / 200 GB<br>33.90 ￥ / 永久 / 2000 GB**||
-|2024.05.31|极速云🔥<br>[**官网1**](https://dwz.zzmy.dpdns.org/OGlBoT)| Trojan、vmess |73|**15.99 ￥ / 月 / 1200 GB**|**88 ￥ / 永久 / 1000 GB**|倍率3倍，1000G等于333G|
+|2024.05.31|极速云🔥<br>[**官网1**](https://dwz.zzmy.dpdns.org/OGlBoT)| Trojan、vmess |73|**15.99 ￥ / 月 / 1200 GB**|**88 ￥ / 永久 / 1000 GB**|倍率6倍即套餐1200G实际等于200G|
 
 
 ---
