@@ -49,7 +49,6 @@
 ---
 ### 免费订阅链接
 
-空壳:
 免费VPN机场订阅
 https://jc.bb6.cc.cd/api/convert?url=https%3A%2F%2Fproxy.v2gh.com%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2FPawdroid%2FFree-servers%2Fmain%2Fsub
 
