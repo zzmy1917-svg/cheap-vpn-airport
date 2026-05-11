@@ -50,7 +50,7 @@
 ### 免费订阅链接，均收集自网络
 
 免费VPN机场订阅  
-https://jc.bb6.cc.cd/api/merge?url=https%3A%2F%2Fghfast.top%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Flist.meta.yml  
+`https://jc.bb6.cc.cd/api/merge?url=https%3A%2F%2Fghfast.top%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Flist.meta.yml`
 
 ---
 
