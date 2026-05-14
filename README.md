@@ -1,5 +1,7 @@
 > 旧仓库已被封  [tprc1949/cheap-vpn-airport](https://github.com/tprc1949/cheap-vpn-airport)
 
+[codeberg仓库](https://codeberg.org/tprc1949/cheap-vpn-airport)
+
 #### 防止仓库被封，建议同时收藏本项目网站 [https://jc.zzmy.dpdns.org/](https://dwz.zzmy.dpdns.org/grWkdp)
 
 # 2026便宜VPN机场推荐 - 免费·低价·优质·稳定·超高性价比
