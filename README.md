@@ -1,15 +1,16 @@
+# 2026便宜VPN机场推荐 - 免费·低价·优质·稳定·超高性价比
+
 > 旧仓库已被封  [tprc1949/cheap-vpn-airport](https://github.com/tprc1949/cheap-vpn-airport)
 
+如若你不希望与本仓库失联，请点一下右上角  **star**⭐  并  **fork**🔱  本仓库。  
 #### 防止仓库被封，建议同时收藏本项目备用仓库和网站
 
 **备用codeberg仓库：**[https://codeberg.org/tprc1949/cheap-vpn-airport](https://codeberg.org/tprc1949/cheap-vpn-airport)
 
  **项目网站**[https://jc.zzmy.dpdns.org/](https://dwz.zzmy.dpdns.org/grWkdp)
 
-# 2026便宜VPN机场推荐 - 免费·低价·优质·稳定·超高性价比
 2026 cheap vpn recommendation
 
-如若你不希望与本仓库失联，请点一下右上角  **star**⭐  并  **fork**🔱  本仓库，同时收藏本项目网站。  
 ---
 
 
