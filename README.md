@@ -7,7 +7,7 @@
 
 **备用codeberg仓库：**[https://codeberg.org/tprc1949/cheap-vpn-airport](https://codeberg.org/tprc1949/cheap-vpn-airport)
 
- **项目网站**[https://jc.zzmy.dpdns.org/](https://dwz.zzmy.dpdns.org/grWkdp)
+ **项目网站**：[https://jc.zzmy.dpdns.org/](https://dwz.zzmy.dpdns.org/grWkdp)
 
 2026 cheap vpn recommendation
 
