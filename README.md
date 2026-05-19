@@ -9,6 +9,8 @@
 
  **项目网站**：[https://jc.zzmy.dpdns.org/](https://dwz.zzmy.dpdns.org/grWkdp)
 
+**TG频道**：[https://t.me/cheap_vpn_airport](https://t.me/cheap_vpn_airport)
+
 2026 cheap vpn recommendation
 
 ---
