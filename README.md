@@ -12,7 +12,7 @@
  **项目网站**：[https://jc.zzmy.dpdns.org/](https://dwz.zzmy.dpdns.org/grWkdp)
 
 **TG频道**：[https://t.me/cheap_vpn_airport](https://t.me/cheap_vpn_airport)  
-机场节日轰活动，重大事件会在频道通知。
+机场节日活动，重大事件会在频道通知。
 
 ---
 
