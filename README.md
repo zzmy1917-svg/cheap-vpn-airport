@@ -11,8 +11,9 @@
 
  **项目网站**：[https://jc.zzmy.dpdns.org/](https://dwz.zzmy.dpdns.org/grWkdp)
 
-###### **TG频道**：[https://t.me/cheap_vpn_airport](https://t.me/cheap_vpn_airport)
+**TG频道**：[https://t.me/cheap_vpn_airport](https://t.me/cheap_vpn_airport)
 机场节日轰活动，重大事件会在频道通知。
+
 ---
 
 ### >>>重要：2026.04.01<<<：最近众多机场遭受攻击，又碰到全网拔线。多留意机场公告。价钱不贵的可以多买几个备用。2026.4.20，机场逐渐恢复专线，但因风险问题，大都改仅专有客户端支持专线！
