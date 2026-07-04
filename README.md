@@ -16,7 +16,7 @@
 
 ---
 
-### 不建议使用国内手机卡注册国外APP。**这里推荐使用国外免实名免月租giffgaff手机卡**，详细教程地址：[https://codeberg.org/tprc1949/blog/src/branch/main/giffgaff.md](https://codeberg.org/tprc1949/blog/src/branch/main/giffgaff.md)。
+### 不建议使用国内手机卡注册国外APP。**这里推荐使用国外免实名免月租giffgaff手机卡,只需20人民币**，详细教程地址：[https://codeberg.org/tprc1949/blog/src/branch/main/giffgaff.md](https://codeberg.org/tprc1949/blog/src/branch/main/giffgaff.md)。
 
 ### >>>重要：2026.04.01<<<：最近众多机场遭受攻击，又碰到全网拔线。多留意机场公告。价钱不贵的可以多买几个备用。2026.4.20，机场逐渐恢复专线，但因风险问题，大都改仅专有客户端支持专线！
 
