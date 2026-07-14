@@ -56,6 +56,8 @@
 |2024.05.31|极速云<br>[**官网1**](https://dwz.zzmy.dpdns.org/dGP3Ij)| Trojan、vmess |125|**15.99 ￥ / 月 / 1200 GB**|**88 ￥ / 永久 / 1000 GB**|倍率6倍即套餐1200G实际等于200G，倍率若变无通知|
 |2022.04.26|魔戒<br>[**官网1**](https://dwz.zzmy.dpdns.org/4mbxlv)| vmess、hy2、anytls |43|无|**14.9 ￥ / 永久 / 130 GB<br>688 ￥ / 永久 / 10000 GB**||
 |2023.05.01|农夫山泉(新老板)<br>[**官网**](https://dwz.zzmy.dpdns.org/WpdR2P)| vless、ss |48|**15 ￥ / 月 / 200 GB**|**45 ￥ / 永久 / 200 GB<br>210 ￥ / 永久 / 1000 GB**|专有客户端。2026.5.1线路全部优化。iOS端软件授权疑似到期。|
+|2022.04.26|魔戒<br>[**官网1**](https://dwz.zzmy.dpdns.org/4mbxlv)| vmess、hy2、anytls |43|无|**14.9 ￥ / 永久 / 130 GB<br>688 ￥ / 永久 / 10000 GB**||
+|2023.05.01|冲浪猫<br>[**官网**](https://dwz.zzmy.dpdns.org/Ja2OhX)| vless、ss |48|**15.88 ￥ / 月 / 200 GB**|**72.99 ￥ / 永久 / 384 GB**||
 
 ---
 ### 免费订阅链接，均收集自网络
