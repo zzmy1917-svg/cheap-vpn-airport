@@ -16,7 +16,7 @@
 
 ---
 
-### 不建议使用国内手机卡注册国外APP。giffgaff实体卡已禁止邮寄中国大陆，三方平台高达几百块。**这里推荐使用国外免实名免月租giffgaff手机esim卡,只需20+CNY，一年保号费用5+CNY**，详细教程地址：[https://github.com/zzmy1917-svg/giffgaff-eSIM](https://github.com/zzmy1917-svg/giffgaff-eSIM)。
+### 不建议使用国内手机卡注册国外APP。giffgaff实体卡已禁止邮寄中国大陆，三方平台高达几百块。**这里推荐giffgaff手机esim卡,只需20+CNY，一年保号费用5+CNY**，详细教程地址：[https://github.com/zzmy1917-svg/giffgaff-eSIM](https://github.com/zzmy1917-svg/giffgaff-eSIM)。
 
 ### >>>请知晓<<<：机场都有跑路的风险。也没有任何翻墙工具是绝对安全的。
 
