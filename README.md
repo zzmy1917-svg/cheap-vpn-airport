@@ -52,17 +52,26 @@
 |2022.12.07|一分机场<br>[**官网1🪜**](https://dwz.zzmy.dpdns.org/HrOjXl)| hy2、vless |58|**2 ￥ / 月 / 100 GB**|**19.88 ￥ / 永久 / 1000 GB**|节点多|
 |2023.05.04|自由猫<br>[**官网1**](https://dwz.zzmy.dpdns.org/cEz7XA)| vmess、hy2、anytls |未统计|**6 ￥ / 月 / 30 GB**|**50 ￥ / 永久 / 500 GB||
 |2024.11.05|牛逼机场<br>[**官网1**](https://dwz.zzmy.dpdns.org/AFz8Na)| vmess、hy2、ss | 44 |**6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB**|**12.90 ￥ / 永久 / 200 GB<br>33.90 ￥ / 永久 / 2000 GB**||
-|2024.05.31|极速云<br>[**官网1**](https://dwz.zzmy.dpdns.org/dGP3Ij)| Trojan、vmess |125|**15.99 ￥ / 月 / 1200 GB**|**88 ￥ / 永久 / 1000 GB**|倍率6倍即套餐1200G实际等于200G，倍率若变无通知|
+|2024.05.31|极速云<br>[**官网1**](https://dwz.zzmy.dpdns.org/dGP3Ij)| Trojan、vmess |125|**15.99 ￥ / 月 / 1200 GB**|**88 ￥ / 永久 / 1000 GB**|倍率6倍<br>即套餐1200G实际等于200G，<br>倍率若变无通知|
 |2022.04.26|魔戒<br>[**官网1**](https://dwz.zzmy.dpdns.org/4mbxlv)| vmess、hy2、anytls |43|无|**14.9 ￥ / 永久 / 130 GB<br>688 ￥ / 永久 / 10000 GB**||
 |2023.05.01|冲浪猫<br>[**官网**](https://dwz.zzmy.dpdns.org/Ja2OhX)| vless、ss |48|**15.88 ￥ / 月 / 200 GB**|**72.99 ￥ / 永久 / 384 GB**||
 |2022.04.26|魔戒<br>[**官网1**](https://dwz.zzmy.dpdns.org/4mbxlv)| vmess、hy2、anytls |43|无|**14.9 ￥ / 永久 / 130 GB<br>688 ￥ / 永久 / 10000 GB**||
 
-
 ---
+
 ### 免费订阅链接，均收集自网络
+
+#### 重要警告（请先看）
+
+   下方免费订阅链接通常会被大量用户同时使用，不具备稳定和安全条件。  
+    高复用节点常见问题：IP 污染、出口被风控、速度波动、隐私不可控。  
+    内容创作者（短视频、直播、自媒体、电商运营）请不要使用此类免费订阅作为生产网络。  
+    原因很直接：IP 不干净或被滥用历史命中风控后，容易触发平台限流、账号异常或登录验证升级。  
+    链接来自网络，仅作学习与测试用途，使用时请务必遵守当地法律法规。  
 
 免费VPN机场订阅  
 `https://jc.bb6.cc.cd/api/merge?url=https%3A%2F%2Fghfast.top%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Flist.meta.yml`
+
 
 ---
 
