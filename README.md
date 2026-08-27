@@ -19,6 +19,11 @@
 **TG频道**：[https://t.me/cheap_vpn_airport](https://t.me/cheap_vpn_airport)  
 机场节日活动，重大事件会在频道通知。
 
+**自用脚本** 
+主要实现：DNS防泄漏，广告过滤，添加 url-test
+
+`https://www.zzmy.dpdns.org/mihomo.js`
+
 ---
 
 ### >>>请知晓<<<：机场都有跑路的风险。也没有任何翻墙工具是绝对安全的。
