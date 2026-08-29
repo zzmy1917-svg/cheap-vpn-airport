@@ -4,8 +4,6 @@
 
 > 旧仓库已被封  [tprc1949/cheap-vpn-airport](https://github.com/tprc1949/cheap-vpn-airport)
 
-#### 国内大流量卡限时回归，欲购从速，随时下架。长期39元200G全国通用流量，200分钟国内语音。[https://dwz.zzmy.dpdns.org/IBgV7y](https://dwz.zzmy.dpdns.org/IBgV7y)
-
 #### giffgaff 大规模封号，携号转网 Lebara ，Lebara 5折优惠
 教程 [https://github.com/zzmy1917-svg/giffgaff-Lebara-eSIM](https://github.com/zzmy1917-svg/giffgaff-Lebara-eSIM)，
 
