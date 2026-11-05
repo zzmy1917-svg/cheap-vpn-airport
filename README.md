@@ -49,7 +49,7 @@
 |2026.6.19|吹雪云<br>[**官网**](https://dwz.zzmy.dpdns.org/L0avrP)|  |**4 ￥ / 月 / 512 GB**|**18.8 ￥ / 永久 / 888 GB**||
 |2025.1.27|飞狗<br>[**官网**](https://dwz.zzmy.dpdns.org/Mhz9ml)|  |**6 ￥ / 季 / 每月100 GB**|**7 ￥ / 永久 / 200 GB**||
 |2024.11.05|牛逼机场<br>[**官网**](https://dwz.zzmy.dpdns.org/AFz8Na)| 44 |**6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB**|**12.90 ￥ / 永久 / 200 GB<br>33.90 ￥ / 永久 / 2000 GB**||
-|2023.03.09|∼亏本机场∼<br>[**官网1**](https://dwz.zzmy.dpdns.org/D3itCj)<br>[**官网2🪜**](https://亏本机场.site/#/register?code=Lhpm2QMs)|21|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 永久 / 1234 GB**|∼最近不太好，极致性价比∼|
+|2023.03.09|∼∼亏本机场∼∼<br>[**官网1**](https://dwz.zzmy.dpdns.org/D3itCj)<br>[**官网2🪜**](https://亏本机场.site/#/register?code=Lhpm2QMs)|21|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 永久 / 1234 GB**|∼∼极致性价比，当前封锁厉害的情况下，不太好∼∼|
 |2026.03.17|念云<br>[**官网**](https://dwz.zzmy.dpdns.org/SglwXT)|未统计|**12 ￥ / 月 / 150 GB**|**89 ￥ / 永久 / 1000 GB||
 |2023.07.01|蜂窝云🔥<br>[**官网**](https://dwz.zzmy.dpdns.org/Y1wnLw)|60|**20 ￥ / 月 / 200 GB**|**不定时出现**|自有客户端，订阅链接需申请。<br>**MITM节点免登录看奈飞VIP,仅浏览器中,<br>最好先问客服**|
 |2022.04.26|魔戒<br>[**官网**](https://dwz.zzmy.dpdns.org/gc7wBJ)|43|无|**14.9 ￥ / 永久 / 130 GB<br>688 ￥ / 永久 / 10000 GB（10 TB）**|自有客户端|
